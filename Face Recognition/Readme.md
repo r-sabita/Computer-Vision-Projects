@@ -1,3 +1,9 @@
 ## Face Recognition
 
-* run app.py to load project in webpage
+- Install all the requirements :
+   
+   - pip install -r requirements.txt
+
+- To load project in webpage :
+  
+  - run app.py
